@@ -51,8 +51,8 @@ I love turning ideas into **clean, efficient, and maintainable code**.
 
 ## 📫 Connect with Me  
 - Email: **itz7mon8dy@gmail.com**  
-- LinkedIn: [linkedin.com/in/mohamedwasfy](#)  
-- GitHub: [github.com/MohamedWasfy](https://github.com/MohamedWasfy)  
+- LinkedIn: [linkedin.com/in/im7mqdy](#)  
+- GitHub: [github.com/MohamedWasfy](https://github.com/IM7mqDyy)  
 
 ---
 
