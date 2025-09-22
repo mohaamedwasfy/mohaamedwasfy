@@ -49,16 +49,7 @@ I love turning ideas into **clean, efficient, and maintainable code**.
 
 ---
 
-## 📫 Connect with Me  
-- Email: **itz7mon8dy@gmail.com**  
-- LinkedIn: [linkedin.com/in/im7mqdy](#)  
-- GitHub: [github.com/MohamedWasfy](https://github.com/IM7mqDyy)  
-
----
-
-## ⚡ Tech Tools with a Twist  
-
-Here are some of the technologies I use, represented with **animated icons** ⚡  
+## ⚡ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,jquery,nodejs,php,laravel,mysql,mongodb,git" />
