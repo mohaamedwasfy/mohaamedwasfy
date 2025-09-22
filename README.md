@@ -66,4 +66,3 @@ Here are some of the technologies I use, represented with **animated icons** ⚡
 
 ---
 
-⭐️ *I approach every project with dedication and focus on delivering top-quality results.*  
