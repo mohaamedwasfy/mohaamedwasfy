@@ -1,58 +1,59 @@
 # Hi there, I'm Mohamed Wasfy 👋  
 
-💻 **Full-Stack Web Developer** | 🚀 Building scalable & modern web applications  
+💻 **Software Engineer** | 🚀 Focused on building high-performance and scalable web applications  
 📍 Port Said, Egypt  
 
 ---
 
 ## 👨‍💻 About Me  
-I’m a passionate **full-stack developer** with strong expertise in both **front-end** and **back-end** development.  
-Despite being in my final year of secondary school, I’ve already worked on **professional projects**, delivering high-quality, optimized, and visually appealing solutions.  
+I’m a passionate **Software Engineer** with a strong focus on crafting modern, efficient, and scalable web applications.  
+I specialize in building full-stack solutions using **Next.js, TypeScript, Prisma, Tailwind CSS, and NextAuth.js**, with deep attention to **clean code**, **design patterns**, and **performance optimization**.  
 
-I enjoy turning ideas into **clean, efficient, and maintainable code**, following best practices and modern development principles.  
-
----
-
-## 🛠️ Tech Stack  
-
-### 🔹 Frontend  
-- **HTML5, CSS3** – Semantic, accessible, and responsive web design  
-- **JavaScript & TypeScript** – Interactive and reliable applications  
-- **React.js & Next.js** – Reusable components, SEO-optimized, and scalable solutions  
-- **Tailwind CSS & Bootstrap** – Fast, modern, and responsive UI design  
-- **jQuery & AJAX** – DOM manipulation & asynchronous interactions  
-
-### 🔹 Backend  
-- **Node.js** – Scalable server-side applications & APIs  
-- **PHP & Laravel** – Secure, efficient back-end systems & CMS development  
-- **MongoDB & MySQL** – Robust database design & optimization  
-- **REST APIs & WebSockets** – Real-time communication & integrations  
-
-### 🔹 Principles & Tools  
-- Clean Code | SOLID Principles | Design Patterns  
-- Git & CLI | Database Queries | Performance Optimization  
+I’ve developed professional projects that combine **technical precision** with **creative problem-solving**, aiming to deliver exceptional user experiences and maintainable architecture.
 
 ---
 
-## 🚀 Featured Projects  
-- **[ATSNEE Website](https://atsnee.org/)** – Professional website for a technology school, built with **Next.js**.  
-- **[Legendasda](https://legendasda.com/)** – Gaming platform with advanced features, built using **Laravel**.  
-- **Other Projects** – Showcasing flexibility across different stacks & technologies.  
+## 🛠️ Technical Expertise  
+
+### 🔹 Software Development  
+- **Frontend:** Next.js, React.js, TypeScript, Tailwind CSS, SASS, Chakra UI  
+- **Backend:** Node.js, Express.js, Prisma ORM, Java Spring Boot, Laravel, PostgreSQL, MongoDB  
+- **Other Tools:** NextAuth.js, REST APIs, Redis, Git, Command Line  
+
+### 🔹 Core Principles  
+- Clean Code, SOLID Principles, and Design Patterns  
+- Accessibility Standards and Responsive Design  
+- Web Performance Optimization and Testing  
 
 ---
 
-## 🌟 Soft Skills  
-✨ **Creativity** – Innovative solutions with attention to design  
-🤝 **Teamwork** – Thrives in collaborative environments  
-💬 **Communication** – Clear, effective interaction with clients & teams  
-🎯 **Leadership** – Ensures projects are delivered with quality and on time  
+## 🚀 Projects  
+
+### 🧠 [AthletiQ](#) — Founder & Software Engineer (Oct 2025 – Present, Port Said, Egypt)  
+AI-powered fitness and nutrition web application that calculates and customizes daily caloric intake and macronutrient goals using machine learning models.  
+- Built with **Next.js, TypeScript, Prisma, Tailwind CSS, and NextAuth.js**  
+- Integrated secure authentication and optimized performance through caching and dynamic rendering  
+
+### 🏫 [ATSNEE Website](https://atsnee.org/) — Developer  
+Developed a responsive school website using **Next.js** and **Payload CMS**, focusing on accessibility and user experience.  
+- Attracted over **5,000+ visitors** including students and parents  
+
+### 💼 Sell4spot  
+Created a digital marketplace for buying and selling items using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
+- Implemented authentication, payment integration, and a modern responsive UI  
 
 ---
 
-## ⚡ Skills  
+## 🌟 Professional Skills  
+✨ **Problem Solving** – Logical, analytical, and creative approach to challenges  
+🤝 **Collaboration** – Works efficiently in team-based projects  
+💬 **Communication** – Clear and effective in technical discussions  
+🎯 **Leadership** – Balances innovation and responsibility in delivery  
+
+---
+
+## ⚡ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,jquery,nodejs,php,laravel,mysql,mongodb,git&theme=light" />
 </p>
-
----
